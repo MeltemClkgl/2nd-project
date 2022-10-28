@@ -10,6 +10,6 @@ Latest HTML5 and CSS3 features were used on the creation of this project
 
 <h2>Screen GIF </h2>
 
-![](/src/bebek.jpg)
+![](src/screen.gif)
 
 
