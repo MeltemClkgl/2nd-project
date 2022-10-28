@@ -9,4 +9,4 @@ that are worthy of celebrating! Indeed, everything starts with the first step. S
 Latest HTML5 and CSS3 features were used on the creation of this project
 
 <h2>Screen GIF </h2>
-![](screen.gif)
+![]([screen.gif](https://github.com/MeltemClkgl/2nd-project/blob/main/screen.gif))
